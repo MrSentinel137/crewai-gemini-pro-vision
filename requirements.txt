@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+crewai
+python-dotenv
+pillow
+google-generativeai
+duckduckgo-search
