@@ -25,9 +25,4 @@ cd crewai-gemini-pro-vision
     
     ```bash
     pip3 install -r requirements.txt
-    ```
-
-3. **Run the Code:**
- ```bash
- python crew.py
-```
+    ``1
