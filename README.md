@@ -18,11 +18,11 @@ cd crewai-gemini-pro-vision
 ```
 
 2. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-     OR
-    
-    ```bash
-    pip3 install -r requirements.txt
-    ``1
+```bash
+pip install -r requirements.txt
+```
+OR
+
+```bash
+pip3 install -r requirements.txt
+```
