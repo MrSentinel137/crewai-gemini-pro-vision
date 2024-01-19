@@ -21,7 +21,7 @@ cd crewai-gemini-pro-vision
 ```bash
 pip install -r requirements.txt
 ```
-OR
+ OR
 
 ```bash
 pip3 install -r requirements.txt
